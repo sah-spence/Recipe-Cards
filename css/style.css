@@ -208,7 +208,7 @@ article {
     }
 
     h1 {
-        font-size: 2.5em;
+        font-size: 2.4em;
     }
 
     .image{
@@ -222,6 +222,7 @@ article {
 
     .recipe h2 {
         font-size: 1.8em;
+	line-height: 1.25em;
     }
 
     .time img {
